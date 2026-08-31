@@ -1,6 +1,7 @@
 # Coffee Sales Analysis - Excel
 
 Coffee Sales Analysis using Microsoft Excel to evaluate coffee sales performance from 2019 to 2022. The analysis focuses on overall sales trends, sales performance across different countries, and identifying the top 5 costumers based on their sales contributions. The project covers data cleaning, data processing, and data visualization, with the result presented through an interactive dashboard and business insights to provide a clearer understanding of sales performances.
+
 ---
 # Data Attributes
 
