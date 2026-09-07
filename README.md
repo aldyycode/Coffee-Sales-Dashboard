@@ -22,3 +22,4 @@ Coffee Sales Analysis using Microsoft Excel to evaluate coffee sales performance
 15. Roast Type Name : The descriptive name of the coffee roast type, such as Medium, Light, and Dark.
 16. Loyalty Card : Indicated whether the customer is a member of the loyalty program.
 
+Test
