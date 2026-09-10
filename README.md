@@ -21,3 +21,7 @@ Coffee Sales Analysis using Microsoft Excel to evaluate coffee sales performance
 14. Coffee Type Name : The descriptive name of the coffee type, such as Robusta, Excelsa, Arabica, and Liberica.
 15. Roast Type Name : The descriptive name of the coffee roast type, such as Medium, Light, and Dark.
 16. Loyalty Card : Indicated whether the customer is a member of the loyalty program.
+
+---
+# Dashboard Overview
+![image alt](https://github.com/aldyycode/Coffee-Sales-Dashboard/blob/2972d2c2d63d701cc44fec4cdfe95ce354d7c0bd/Screenshot%202026-09-10%20151751.png)
